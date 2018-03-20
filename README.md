@@ -10,14 +10,18 @@ We are working with the "Bhamashah API" information to fetch the data of the cit
 
 We as a team and as a citizen of this Great country really want to serve the people of this country. Our main aim is to make this country a Greener place and a Global heritage.
 
-Installations:
-sudo apt-get install python3
-sudo apt-get install python3-pip
+<h3>Installations:</h3
+<br>
+sudo apt-get install python3<br>
+sudo apt-get install python3-pip<br>
 
-sudo pip install virtualenv
-sudo pip install django
+sudo pip install virtualenv<br>
+sudo pip install django<br>
 
-Instructions for Execution: 
-python3 manage.py makemigrations
-python3 manage.py migrate
-python3 manage.py runserver
+
+<h3>Instructions for Execution: </h3>
+cd env/<br>
+cd akatsuki/<br>
+python3 manage.py makemigrations<br>
+python3 manage.py migrate<br>
+python3 manage.py runserver<br>
