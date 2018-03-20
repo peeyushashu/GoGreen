@@ -20,8 +20,6 @@ sudo pip install django<br>
 
 
 <h3>Instructions for Execution: </h3>
-cd env/<br>
-cd akatsuki/<br>
 python3 manage.py makemigrations<br>
 python3 manage.py migrate<br>
 python3 manage.py runserver<br>
